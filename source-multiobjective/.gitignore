@@ -1,0 +1,21 @@
+# Build directories
+build
+build_r
+#
+.cache
+# Executable
+MO_GOMEA
+# IDE specific stuff
+.vscode
+# Large files
+results
+result
+experiments.txt
+LOG.txt
+# Large & binary!
+*.tar.gz
+# Too many files -- may need to commit when neccesary.
+maxcut_sets
+# Output files for quick plot viewing
+a.jpg
+a.png

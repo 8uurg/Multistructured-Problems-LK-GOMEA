@@ -1,0 +1,5 @@
+maxcut is always against an instance of equal size, and always instance 0.
+(unless: maxcut vs maxcut, the fronts for these pairs of instances were already determined.)
+
+bot is always using seed 0, unless bot vs bot (in which case the second objective has seed 1)
+furthermore k=5 in all cases.

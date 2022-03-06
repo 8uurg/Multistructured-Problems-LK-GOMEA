@@ -1,0 +1,20 @@
+Add to `meson.build`:
+```
+cxx = meson.get_compiler('cpp')
+libdl_dep = cxx.find_library('dl')
+backtrace_dep = cxx.find_library('backtrace')
+boost_dep = dependency('boost')
+traceback_deps = [libdl_dep, backtrace_dep, boost_dep]
+```
+Add to imports
+```cpp
+// Stacktrace!
+#ifndef BOOST_STACKTRACE_USE_BACKTRACE
+#define BOOST_STACKTRACE_USE_BACKTRACE
+#endif
+#include <boost/stacktrace.hpp>
+```
+Then print stacktrace using
+```cpp
+std::cerr << "Stacktrace:\n" << boost::stacktrace::stacktrace() << '\n';
+```

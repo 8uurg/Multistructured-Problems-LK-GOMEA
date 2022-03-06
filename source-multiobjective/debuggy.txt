@@ -1,0 +1,64 @@
+//! DEBUG: check for large changes
+            //! General occurence is as follows:
+            //! - Point probably lies closer to the nadir(?) -- somehow this did not work?
+            //! - Or point has changed tradeoff notably.
+            //! - Point is dominated by the archive.
+            if (is_improved)
+            {
+                double distance_nadir_begin_generation = 0.0;
+                double distance_nadir_current = 0.0;
+                // double distance_nadir_backup = 0.0;
+                double dotprod_current = 0.0;
+                // double dotprod_backup = 0.0;
+                for (int d = 0; d < number_of_objectives; ++d)
+                {
+                    double delta_begin = (objective_values[solution_idx][d] - nadir_point[d]);
+                    double delta_current = (obj[d] - nadir_point[d]);
+                    // double delta_backup = (obj_backup[d] - nadir_point[d]);
+
+                    distance_nadir_begin_generation += delta_begin * delta_begin;
+                    distance_nadir_current += delta_current * delta_current;
+                    // distance_nadir_backup += delta_backup * delta_backup;
+                    dotprod_current += delta_begin * delta_current;
+                }
+                distance_nadir_begin_generation = std::sqrt(distance_nadir_begin_generation);
+                distance_nadir_current = std::sqrt(distance_nadir_current);
+                // distance_nadir_backup = std::sqrt(distance_nadir_backup);
+                dotprod_current /= distance_nadir_begin_generation;
+                dotprod_current /= distance_nadir_current;
+
+                if (dotprod_current < 0.7)
+                {
+                        std::cout << "Large change detected at " << number_of_evaluations << " evaluations." << '\n';
+                        std::cout << "Dot product is " << dotprod_current << "!" << 'n';
+                        std::cout << "Distance to Nadir was originally " << distance_nadir_begin_generation << " but is now " << distance_nadir_current << ".\n";
+                        // std::cout << "Backup has distance " << distance_nadir_backup << "\n";
+                        // std::cout << "Old scalarized performance: " << perf_old << "; New scalarized performance: " << perf_new << ";\n";
+                        std::cout << "Originally located at ";
+                        for (int d = 0; d < number_of_objectives; ++d)
+                            std::cout << (d == 0 ? "(" : ", ") << objective_values[solution_idx][d];
+                        std::cout << ")\n";
+                        std::cout << "Backup located at ";
+                        for (int d = 0; d < number_of_objectives; ++d)
+                            std::cout << (d == 0 ? "(" : ", ") << obj_backup[d];
+                        std::cout << ")" << '\n';
+                        std::cout << "Now located at ";
+                        for (int d = 0; d < number_of_objectives; ++d)
+                            std::cout << (d == 0 ? "(" : ", ") << obj[d];
+                        std::cout << ")" << '\n';
+                        std::cout << "Objective ranges ";
+                        for (int d = 0; d < number_of_objectives; ++d)
+                            std::cout << (d == 0 ? "(" : ", ") << objective_ranges[d];
+                        std::cout << ")\n";
+                        // std::cout << "Line Origin: ";
+                        // for (int o = 0; o < number_of_objectives; ++o)
+                        //     std::cout << (o == 0 ? "(" : ",") << line_origin[o];
+                        // std::cout << "); ";
+                        // std::cout << " Line Direction: ";
+                        // for (int o = 0; o < number_of_objectives; ++o)
+                        //     std::cout << (o == 0 ? "(" : ",") << line_direction[o];
+                        // std::cout << ")";
+                        std::cout << std::endl;
+                    }
+                }
+                //! END DEBUG

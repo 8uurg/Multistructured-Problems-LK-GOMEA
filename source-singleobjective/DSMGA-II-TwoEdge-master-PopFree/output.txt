@@ -1,0 +1,1030 @@
+DSMGA2 ell nInitial function maxGen time_limit vtr rand_seed folder [instancePath] [k] [s]
+function: 
+     Trap:  1
+     ADF    :  2
+     MaxCut :  3
+     HIFF   :  4
+     Bimodal Trap    :  7
+test vtr:80
+preparing folder: test
+creating bimodal concatenated Deceptive Trap with trap size=10 and shift=10
+f change: 73 73
+0 3 
+ good mask:
+0 3 
+f change: 73 73
+55 58 
+ good mask:
+55 58 
+f change: 73 73
+25 26 
+ good mask:
+25 26 
+f change: 72 72
+1 6 
+ good mask:
+1 6 
+f change: 72 72
+27 29 
+ good mask:
+27 29 
+f change: 72 72
+34 39 
+ good mask:
+34 39 
+f change: 72 72
+62 68 
+ good mask:
+62 68 
+f change: 73 73
+24 22 
+ good mask:
+24 22 
+Gen:0  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 1
+f change: 72 72
+37 16 11 32 
+ good mask:
+37 16 11 32 
+f change: 72 72
+26 25 29 27 
+ good mask:
+26 25 29 27 
+f change: 72 72
+74 78 
+ good mask:
+74 78 
+f change: 72 72
+0 4 
+ good mask:
+0 4 
+f change: 72 72
+24 22 29 27 
+ good mask:
+24 22 29 27 
+f change: 72 72
+67 69 
+ good mask:
+67 69 
+f change: 72 72
+21 22 
+ good mask:
+21 22 
+f change: 72 72
+45 44 
+ good mask:
+45 44 
+Gen:1  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 2
+f change: 72 72
+2 8 
+ good mask:
+2 8 
+f change: 72 72
+5 4 
+ good mask:
+5 4 
+f change: 72 72
+20 23 
+ good mask:
+20 23 
+f change: 72 72
+26 27 
+ good mask:
+26 27 
+f change: 72 72
+50 51 
+ good mask:
+50 51 
+f change: 72 72
+38 39 
+ good mask:
+38 39 
+f change: 72 72
+9 5 
+ good mask:
+9 5 
+f change: 72 72
+3 6 
+ good mask:
+3 6 
+f change: 72 72
+21 26 
+ good mask:
+21 26 
+f change: 73 73
+26 27 
+ good mask:
+26 27 
+f change: 72 72
+75 72 
+ good mask:
+75 72 
+f change: 72 72
+24 23 
+ good mask:
+24 23 
+Gen:2  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 3
+f change: 72 72
+6 8 
+ good mask:
+6 8 
+f change: 72 72
+20 25 
+ good mask:
+20 25 
+f change: 74 74
+2 7 
+ good mask:
+2 7 
+f change: 75 75
+26 20 
+ good mask:
+26 20 
+f change: 72 72
+16 14 
+ good mask:
+16 14 
+f change: 72 72
+28 23 
+ good mask:
+28 23 
+f change: 73 73
+9 3 
+ good mask:
+9 3 
+f change: 72 72
+17 15 
+ good mask:
+17 15 
+f change: 73 73
+26 28 
+ good mask:
+26 28 
+f change: 74 74
+23 27 
+ good mask:
+23 27 
+Gen:3  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 4
+f change: 72 72
+27 26 
+ good mask:
+27 26 
+f change: 72 72
+22 27 
+ good mask:
+22 27 
+f change: 72 72
+6 9 
+ good mask:
+6 9 
+f change: 72 72
+74 79 
+ good mask:
+74 79 
+f change: 73 73
+2 1 
+ good mask:
+2 1 
+f change: 72 72
+2 9 
+ good mask:
+2 9 
+f change: 72 72
+65 68 
+ good mask:
+65 68 
+f change: 73 73
+7 5 
+ good mask:
+7 5 
+f change: 72 72
+76 77 
+ good mask:
+76 77 
+f change: 73 73
+48 40 
+ good mask:
+48 40 
+f change: 72 72
+22 29 
+ good mask:
+22 29 
+Gen:4  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 5
+f change: 73 73
+26 29 
+ good mask:
+26 29 
+f change: 72 72
+7 8 
+ good mask:
+7 8 
+f change: 72 72
+6 1 
+ good mask:
+6 1 
+f change: 72 72
+25 22 
+ good mask:
+25 22 
+f change: 73 73
+4 1 
+ good mask:
+4 1 
+f change: 72 72
+0 9 
+ good mask:
+0 9 
+f change: 72 72
+6 1 
+ good mask:
+6 1 
+Gen:5  Fitness:(Max/Mean/Min):75.000000/72.365000/72.000000 
+ generations without improvement: 6
+f change: 73 74
+28 25 20 24 0 8 29 
+ good mask:
+28 25 20 24 0 8 29 
+back f change: 72 73
+f change: 73 73
+6 9 
+ good mask:
+6 9 
+f change: 73 73
+1 7 
+ good mask:
+1 7 
+f change: 73 73
+8 0 
+ good mask:
+8 0 
+f change: 73 73
+60 66 
+ good mask:
+60 66 
+f change: 75 75
+31 35 
+ good mask:
+31 35 
+f change: 73 73
+36 33 
+ good mask:
+36 33 
+Gen:6  Fitness:(Max/Mean/Min):76.000000/73.285000/72.000000 
+ f change: 73 73
+5 6 
+ good mask:
+5 6 
+f change: 73 73
+73 52 58 79 
+ good mask:
+73 52 58 79 
+f change: 73 73
+9 2 
+ good mask:
+9 2 
+Gen:7  Fitness:(Max/Mean/Min):76.000000/73.285000/72.000000 
+ generations without improvement: 1
+f change: 73 73
+2 3 
+ good mask:
+2 3 
+f change: 74 74
+55 50 
+ good mask:
+55 50 
+f change: 73 73
+33 32 
+ good mask:
+33 32 
+Gen:8  Fitness:(Max/Mean/Min):76.000000/73.285000/72.000000 
+ generations without improvement: 2
+f change: 73 73
+53 51 
+ good mask:
+53 51 
+f change: 74 75
+38 39 33 37 31 56 59 
+ good mask:
+38 39 33 37 31 56 59 
+back f change: 73 74
+Gen:9  Fitness:(Max/Mean/Min):76.000000/73.320000/72.000000 
+ generations without improvement: 3
+f change: 74 74
+50 56 
+ good mask:
+50 56 
+f change: 73 73
+51 54 
+ good mask:
+51 54 
+f change: 73 73
+70 77 
+ good mask:
+70 77 
+Gen:10  Fitness:(Max/Mean/Min):76.000000/73.320000/72.000000 
+ generations without improvement: 4
+f change: 73 73
+57 54 
+ good mask:
+57 54 
+Gen:11  Fitness:(Max/Mean/Min):76.000000/73.320000/72.000000 
+ generations without improvement: 5
+f change: 73 73
+49 47 
+ good mask:
+49 47 
+f change: 73 74
+33 39 31 37 30 50 52 
+ good mask:
+33 39 31 37 30 50 52 
+back f change: 73 74
+f change: 73 73
+62 66 
+ good mask:
+62 66 
+Gen:12  Fitness:(Max/Mean/Min):76.000000/73.400000/72.000000 
+ generations without improvement: 6
+f change: 74 74
+6 2 
+ good mask:
+6 2 
+f change: 75 75
+59 58 
+ good mask:
+59 58 
+f change: 73 73
+77 73 
+ good mask:
+77 73 
+Gen:13  Fitness:(Max/Mean/Min):76.000000/73.400000/72.000000 
+ generations without improvement: 7
+f change: 73 73
+71 73 
+ good mask:
+71 73 
+f change: 74 74
+54 59 
+ good mask:
+54 59 
+Gen:14  Fitness:(Max/Mean/Min):76.000000/73.400000/72.000000 
+ generations without improvement: 8
+f change: 73 73
+71 75 
+ good mask:
+71 75 
+f change: 73 73
+41 48 
+ good mask:
+41 48 
+Gen:15  Fitness:(Max/Mean/Min):76.000000/73.400000/72.000000 
+ generations without improvement: 9
+f change: 73 73
+76 79 
+ good mask:
+76 79 
+f change: 75 75
+58 52 
+ good mask:
+58 52 
+Gen:16  Fitness:(Max/Mean/Min):76.000000/73.400000/72.000000 
+ generations without improvement: 10
+f change: 74 74
+30 33 39 31 37 52 50 38 34 32 35 36 
+ good mask:
+30 33 39 31 37 52 50 38 34 32 35 36 
+back f change: 73 74
+f change: 74 74
+36 33 39 37 31 52 30 50 38 34 32 35 
+ good mask:
+36 33 39 37 31 52 30 50 38 34 32 35 
+f change: 73 73
+72 73 
+ good mask:
+72 73 
+Gen:17  Fitness:(Max/Mean/Min):76.000000/73.725000/72.000000 
+ generations without improvement: 11
+f change: 75 75
+73 76 
+ good mask:
+73 76 
+f change: 74 74
+75 79 
+ good mask:
+75 79 
+f change: 73 73
+74 72 
+ good mask:
+74 72 
+f change: 75 75
+51 52 
+ good mask:
+51 52 
+Gen:18  Fitness:(Max/Mean/Min):76.000000/73.725000/72.000000 
+ generations without improvement: 12
+f change: 73 73
+57 52 
+ good mask:
+57 52 
+f change: 73 73
+55 59 
+ good mask:
+55 59 
+f change: 75 75
+66 67 
+ good mask:
+66 67 
+Gen:19  Fitness:(Max/Mean/Min):76.000000/73.725000/72.000000 
+ generations without improvement: 13
+f change: 73 73
+74 79 
+ good mask:
+74 79 
+f change: 75 75
+54 52 
+ good mask:
+54 52 
+f change: 74 74
+11 12 
+ good mask:
+11 12 
+f change: 74 74
+58 57 
+ good mask:
+58 57 
+Gen:20  Fitness:(Max/Mean/Min):76.000000/73.725000/72.000000 
+ generations without improvement: 14
+f change: 74 74
+36 33 39 37 31 30 38 54 59 32 35 34 
+ good mask:
+36 33 39 37 31 30 38 54 59 32 35 34 
+back f change: 73 74
+f change: 74 74
+31 33 39 37 30 38 36 54 59 32 35 34 
+ good mask:
+31 33 39 37 30 38 36 54 59 32 35 34 
+f change: 74 74
+29 26 21 27 23 25 20 22 28 24 16 11 
+ good mask:
+29 26 21 27 23 25 20 22 28 24 16 11 
+back f change: 73 74
+f change: 74 74
+22 25 24 28 20 26 29 27 21 23 16 11 
+ good mask:
+22 25 24 28 20 26 29 27 21 23 16 11 
+f change: 73 73
+71 76 
+ good mask:
+71 76 
+Gen:21  Fitness:(Max/Mean/Min):76.000000/74.215000/73.000000 
+ generations without improvement: 15
+f change: 74 74
+59 57 
+ good mask:
+59 57 
+f change: 74 74
+50 53 
+ good mask:
+50 53 
+Gen:22  Fitness:(Max/Mean/Min):76.000000/74.215000/73.000000 
+ generations without improvement: 16
+f change: 74 74
+52 50 
+ good mask:
+52 50 
+f change: 75 76
+2 3 0 4 1 76 77 
+ good mask:
+2 3 0 4 1 76 77 
+back f change: 74 75
+Gen:23  Fitness:(Max/Mean/Min):77.000000/75.110000/73.000000 
+ f change: 75 75
+8 6 7 9 5 77 2 4 1 0 3 76 
+ good mask:
+8 6 7 9 5 77 2 4 1 0 3 76 
+f change: 75 75
+72 75 
+ good mask:
+72 75 
+f change: 75 75
+74 78 
+ good mask:
+74 78 
+f change: 75 75
+71 70 
+ good mask:
+71 70 
+Gen:24  Fitness:(Max/Mean/Min):77.000000/75.110000/73.000000 
+ generations without improvement: 1
+f change: 75 75
+71 73 
+ good mask:
+71 73 
+f change: 75 75
+19 16 
+ good mask:
+19 16 
+Gen:25  Fitness:(Max/Mean/Min):77.000000/75.110000/73.000000 
+ generations without improvement: 2
+f change: 75 75
+71 74 
+ good mask:
+71 74 
+f change: 75 75
+10 16 
+ good mask:
+10 16 
+f change: 75 75
+16 20 29 24 28 25 23 26 27 21 22 11 
+ good mask:
+16 20 29 24 28 25 23 26 27 21 22 11 
+back f change: 73 74
+Gen:26  Fitness:(Max/Mean/Min):77.000000/75.125000/74.000000 
+ generations without improvement: 3
+f change: 75 75
+23 21 27 22 26 28 24 25 20 29 11 16 
+ good mask:
+23 21 27 22 26 28 24 25 20 29 11 16 
+f change: 75 75
+28 25 20 24 29 23 26 22 21 27 11 19 
+ good mask:
+28 25 20 24 29 23 26 22 21 27 11 19 
+Gen:27  Fitness:(Max/Mean/Min):77.000000/75.125000/74.000000 
+ generations without improvement: 4
+f change: 75 75
+70 71 
+ good mask:
+70 71 
+f change: 75 75
+42 49 
+ good mask:
+42 49 
+Gen:28  Fitness:(Max/Mean/Min):77.000000/75.125000/74.000000 
+ generations without improvement: 5
+f change: 74 74
+13 19 
+ good mask:
+13 19 
+f change: 75 75
+18 19 
+ good mask:
+18 19 
+Gen:29  Fitness:(Max/Mean/Min):77.000000/75.125000/74.000000 
+ generations without improvement: 6
+f change: 75 76
+61 47 68 16 19 10 12 41 13 
+ good mask:
+61 47 68 16 19 10 12 41 13 
+back f change: 75 76
+Gen:30  Fitness:(Max/Mean/Min):77.000000/75.140000/74.000000 
+ generations without improvement: 7
+Gen:31  Fitness:(Max/Mean/Min):77.000000/75.140000/74.000000 
+ generations without improvement: 8
+f change: 75 75
+46 40 
+ good mask:
+46 40 
+f change: 76 76
+11 13 14 15 18 69 63 19 10 16 12 17 
+ good mask:
+11 13 14 15 18 69 63 19 10 16 12 17 
+back f change: 75 76
+f change: 76 76
+11 13 14 15 18 69 63 19 10 16 12 17 
+ good mask:
+11 13 14 15 18 69 63 19 10 16 12 17 
+Gen:32  Fitness:(Max/Mean/Min):77.000000/75.605000/74.000000 
+ generations without improvement: 9
+f change: 76 76
+52 58 
+ good mask:
+52 58 
+f change: 75 75
+55 53 
+ good mask:
+55 53 
+f change: 76 76
+59 51 
+ good mask:
+59 51 
+f change: 76 76
+73 75 
+ good mask:
+73 75 
+Gen:33  Fitness:(Max/Mean/Min):77.000000/75.605000/74.000000 
+ generations without improvement: 10
+f change: 74 75
+70 7 5 6 9 8 77 
+ good mask:
+70 7 5 6 9 8 77 
+back f change: 75 76
+Gen:34  Fitness:(Max/Mean/Min):77.000000/75.630000/74.000000 
+ generations without improvement: 11
+f change: 75 75
+45 42 
+ good mask:
+45 42 
+f change: 75 75
+66 61 
+ good mask:
+66 61 
+f change: 76 76
+43 46 
+ good mask:
+43 46 
+f change: 75 75
+47 46 
+ good mask:
+47 46 
+Gen:35  Fitness:(Max/Mean/Min):77.000000/75.630000/74.000000 
+ generations without improvement: 12
+f change: 75 75
+66 64 
+ good mask:
+66 64 
+f change: 76 76
+48 46 
+ good mask:
+48 46 
+Gen:36  Fitness:(Max/Mean/Min):77.000000/75.630000/74.000000 
+ generations without improvement: 13
+f change: 75 75
+44 42 48 43 
+ good mask:
+44 42 48 43 
+f change: 75 75
+73 74 71 78 77 5 7 8 9 6 66 68 
+ good mask:
+73 74 71 78 77 5 7 8 9 6 66 68 
+f change: 75 75
+68 66 
+ good mask:
+68 66 
+f change: 76 76
+46 45 
+ good mask:
+46 45 
+f change: 75 75
+42 48 
+ good mask:
+42 48 
+f change: 75 75
+60 65 
+ good mask:
+60 65 
+Gen:37  Fitness:(Max/Mean/Min):77.000000/75.630000/74.000000 
+ generations without improvement: 14
+f change: 76 76
+62 71 74 78 73 77 5 9 6 7 8 68 
+ good mask:
+62 71 74 78 73 77 5 9 6 7 8 68 
+back f change: 76 77
+f change: 77 77
+62 73 71 77 78 74 5 9 6 8 7 68 
+ good mask:
+62 73 71 77 78 74 5 9 6 8 7 68 
+f change: 75 76
+65 18 13 11 14 15 63 
+ good mask:
+65 18 13 11 14 15 63 
+back f change: 76 77
+f change: 75 75
+9 7 8 5 6 71 74 78 77 73 68 66 
+ good mask:
+9 7 8 5 6 71 74 78 77 73 68 66 
+Gen:38  Fitness:(Max/Mean/Min):77.000000/75.740000/74.000000 
+ generations without improvement: 15
+f change: 76 76
+7 8 6 9 5 71 74 78 77 73 68 69 
+ good mask:
+7 8 6 9 5 71 74 78 77 73 68 69 
+f change: 76 76
+9 8 6 5 7 78 77 74 71 73 68 69 
+ good mask:
+9 8 6 5 7 78 77 74 71 73 68 69 
+back f change: 75 76
+f change: 76 76
+6 9 8 7 5 78 71 77 74 73 68 69 
+ good mask:
+6 9 8 7 5 78 71 77 74 73 68 69 
+f change: 75 75
+65 77 74 71 73 78 8 5 6 9 7 68 
+ good mask:
+65 77 74 71 73 78 8 5 6 9 7 68 
+f change: 75 75
+77 73 78 74 71 5 8 7 6 9 68 65 
+ good mask:
+77 73 78 74 71 5 8 7 6 9 68 65 
+Gen:39  Fitness:(Max/Mean/Min):77.000000/75.745000/74.000000 
+ generations without improvement: 16
+f change: 75 75
+5 8 9 7 6 68 77 73 78 74 71 67 
+ good mask:
+5 8 9 7 6 68 77 73 78 74 71 67 
+f change: 75 75
+42 43 41 44 
+ good mask:
+42 43 41 44 
+f change: 76 76
+6 9 8 5 7 68 77 73 78 74 71 67 
+ good mask:
+6 9 8 5 7 68 77 73 78 74 71 67 
+f change: 75 75
+7 6 9 5 8 68 77 73 74 78 71 64 
+ good mask:
+7 6 9 5 8 68 77 73 74 78 71 64 
+f change: 75 75
+71 73 78 74 77 9 7 5 6 8 68 64 
+ good mask:
+71 73 78 74 77 9 7 5 6 8 68 64 
+f change: 76 76
+19 18 13 11 14 15 63 17 10 12 16 64 
+ good mask:
+19 18 13 11 14 15 63 17 10 12 16 64 
+back f change: 75 76
+f change: 76 76
+76 75 70 79 72 63 13 11 14 15 18 64 
+ good mask:
+76 75 70 79 72 63 13 11 14 15 18 64 
+back f change: 76 77
+Gen:40  Fitness:(Max/Mean/Min):78.000000/76.035000/75.000000 
+ f change: 75 75
+64 72 75 79 76 70 18 15 14 13 11 63 
+ good mask:
+64 72 75 79 76 70 18 15 14 13 11 63 
+Gen:41  Fitness:(Max/Mean/Min):78.000000/76.035000/75.000000 
+ generations without improvement: 1
+f change: 75 76
+75 76 79 70 72 64 62 
+ good mask:
+75 76 79 70 72 64 62 
+back f change: 76 77
+Gen:42  Fitness:(Max/Mean/Min):78.000000/76.150000/75.000000 
+ generations without improvement: 2
+f change: 75 75
+14 13 11 63 15 18 60 12 19 17 16 10 
+ good mask:
+14 13 11 63 15 18 60 12 19 17 16 10 
+back f change: 77 78
+f change: 76 76
+18 15 11 13 14 63 60 12 19 17 16 10 
+ good mask:
+18 15 11 13 14 63 60 12 19 17 16 10 
+f change: 76 77
+75 72 76 70 79 67 64 
+ good mask:
+75 72 76 70 79 67 64 
+back f change: 76 77
+Gen:43  Fitness:(Max/Mean/Min):78.000000/76.925000/75.000000 
+ generations without improvement: 3
+f change: 77 77
+40 48 
+ good mask:
+40 48 
+f change: 77 77
+62 61 
+ good mask:
+62 61 
+Gen:44  Fitness:(Max/Mean/Min):78.000000/76.925000/75.000000 
+ generations without improvement: 4
+f change: 78 78
+60 69 
+ good mask:
+60 69 
+f change: 77 77
+13 14 11 15 18 16 19 63 10 12 17 64 
+ good mask:
+13 14 11 15 18 16 19 63 10 12 17 64 
+back f change: 76 77
+f change: 77 77
+11 18 13 14 15 16 19 10 12 63 17 64 
+ good mask:
+11 18 13 14 15 16 19 10 12 63 17 64 
+f change: 75 75
+62 65 
+ good mask:
+62 65 
+Gen:45  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 5
+f change: 77 77
+61 69 
+ good mask:
+61 69 
+f change: 78 78
+67 11 63 15 13 12 17 16 14 10 18 19 
+ good mask:
+67 11 63 15 13 12 17 16 14 10 18 19 
+Gen:46  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 6
+f change: 78 78
+69 67 
+ good mask:
+69 67 
+Gen:47  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 7
+Gen:48  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 8
+Gen:49  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 9
+Gen:50  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 10
+Gen:51  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 11
+Gen:52  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 12
+Gen:53  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 13
+Gen:54  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 14
+Gen:55  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 15
+Gen:56  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 16
+f change: 76 76
+50 56 
+ good mask:
+50 56 
+Gen:57  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 17
+Gen:58  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 18
+Gen:59  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 19
+f change: 77 77
+62 69 
+ good mask:
+62 69 
+Gen:60  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 20
+Gen:61  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 21
+Gen:62  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 22
+Gen:63  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 23
+Gen:64  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 24
+Gen:65  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 25
+Gen:66  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 26
+Gen:67  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 27
+Gen:68  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 28
+Gen:69  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 29
+Gen:70  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 30
+f change: 75 75
+45 49 
+ good mask:
+45 49 
+Gen:71  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 31
+Gen:72  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 32
+Gen:73  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 33
+Gen:74  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 34
+Gen:75  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 35
+Gen:76  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 36
+Gen:77  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 37
+Gen:78  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 38
+Gen:79  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 39
+Gen:80  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 40
+Gen:81  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 41
+Gen:82  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 42
+Gen:83  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 43
+Gen:84  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 44
+Gen:85  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 45
+Gen:86  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 46
+Gen:87  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 47
+Gen:88  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 48
+Gen:89  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 49
+f change: 76 76
+15 18 
+ good mask:
+15 18 
+Gen:90  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 50
+Gen:91  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 51
+Gen:92  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 52
+Gen:93  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 53
+Gen:94  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 54
+Gen:95  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 55
+Gen:96  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 56
+Gen:97  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 57
+Gen:98  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 58
+Gen:99  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 59
+Gen:100  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 60
+Gen:101  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 61
+Gen:102  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 62
+Gen:103  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 63
+Gen:104  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 64
+Gen:105  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 65
+Gen:106  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 66
+Gen:107  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 67
+Gen:108  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 68
+Gen:109  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 69
+Gen:110  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 70
+Gen:111  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 71
+Gen:112  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 72
+Gen:113  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 73
+Gen:114  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 74
+Gen:115  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 75
+Gen:116  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 76
+Gen:117  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 77
+Gen:118  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 78
+Gen:119  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 79
+Gen:120  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 80
+Gen:121  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 81
+Gen:122  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 82
+Gen:123  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 83
+Gen:124  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 84
+Gen:125  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 85
+Gen:126  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 86
+Gen:127  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 87
+Gen:128  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 88
+Gen:129  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 89
+Gen:130  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 90
+Gen:131  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 91
+Gen:132  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 92
+Gen:133  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 93
+Gen:134  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 94
+Gen:135  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 95
+Gen:136  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 96
+Gen:137  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 97
+Gen:138  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 98
+Gen:139  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 99
+Gen:140  Fitness:(Max/Mean/Min):78.000000/76.930000/75.000000 
+ generations without improvement: 100
+

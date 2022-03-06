@@ -1,0 +1,6 @@
+2 4
+./maxcut/maxcut_instance_6_0.txt
+29 3
+28 4
+19 5
+0 6

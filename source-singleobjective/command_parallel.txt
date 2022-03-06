@@ -1,0 +1,1 @@
+./build/GOMEA --approach 0 --problem=3 --alphabet=2 --L=200 --instance=./data/maxcut/maxcut_instance_200_42.txt
