@@ -1,5 +1,4 @@
-Raw data is uploaded on Figshare
-- [ ] Add link to data here
+Raw data (e.g. raw experimental results) can be found here: https://doi.org/10.4121/19314218.
 
 Processing-* contain the relevant notebooks for generating the graphs from data,
 requires numpy, pandas, an rpy2 installation using an R installation which has dplyr & ggplot2 installed.
