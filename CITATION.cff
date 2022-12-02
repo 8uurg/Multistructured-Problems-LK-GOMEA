@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Solving multi-structured problems by introducing
+  linkage kernels into GOMEA - Source Code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Arthur
+    family-names: Guijt
+    email: arthur.guijt@cwi.nl
+    affiliation: Centrum Wiskunde & Informatica
+    orcid: 'https://orcid.org/0000-0002-0480-2129'
+  - given-names: Dirk
+    family-names: Thierens
+    email: D.Thierens@uu.nl
+    orcid: 'https://orcid.org/0000-0002-9308-5159'
+    affiliation: Utrecht University
+  - given-names: Tanja
+    family-names: Alderliesten
+    email: T.Alderliesten@lumc.nl
+    affiliation: Leiden University Medical Center
+    orcid: 'https://orcid.org/0000-0003-4261-7511'
+  - given-names: Peter A.N.
+    family-names: Bosman
+    email: Peter.Bosman@cwi.nl
+    orcid: 'https://orcid.org/0000-0002-4186-6666'
+    affiliation: >-
+      Centrum Wiskunde & Informatica, and Delft
+      University of Technology
