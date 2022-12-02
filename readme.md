@@ -7,7 +7,6 @@ If you use this work, please cite the relevant work.
 * Submitted to GECCO 2022
 * Published at GECCO 2022: https://dl.acm.org/doi/10.1145/3512290.3528828
 * ArXiv: https://arxiv.org/abs/2203.05970 - prefer citing the published version instead.
-- [ ] add CITATIONS file
 
 source-singleobjective also includes a modified version of DSMGA-II that uses the Interleaved Multistart Scheme.
 As per https://github.com/tianliyu/DSMGA-II, if used within a publication, please include the following citation:
