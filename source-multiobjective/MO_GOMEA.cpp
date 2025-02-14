@@ -46,6 +46,15 @@
  * 
  * 5. J.C. Pereira, F.G. Lobo: A Java Implementation of Parameter-less 
  * Evolutionary Algorithms. CoRR abs/1506.08694 (2015)
+ *
+ * In addition, the code, as provided here, was modified for the following project:
+ * DAEDALUS – Distributed and Automated Evolutionary Deep Architecture Learning with Unprecedented Scalability
+ *
+ * This research code was developed as part of the research programme Open Technology Programme with project number 18373, which was financed by the Dutch Research Council (NWO), Elekta, and Ortec Logiqcare.
+ *
+ * Project leaders: Peter A.N. Bosman, Tanja Alderliesten
+ * Researchers: Alex Chebykin, Arthur Guijt, Vangelis Kostoulas
+ * Main code developer: Arthur Guijt 
  */
 
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-= Section Includes -=-=-=-=-=-=-=-=-=-=-=-=-=-=*/

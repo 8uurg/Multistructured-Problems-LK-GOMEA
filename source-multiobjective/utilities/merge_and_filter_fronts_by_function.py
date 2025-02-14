@@ -1,3 +1,11 @@
+#  DAEDALUS – Distributed and Automated Evolutionary Deep Architecture Learning with Unprecedented Scalability
+#
+# This research code was developed as part of the research programme Open Technology Programme with project number 18373, which was financed by the Dutch Research Council (NWO), Elekta, and Ortec Logiqcare.
+#
+# Project leaders: Peter A.N. Bosman, Tanja Alderliesten
+# Researchers: Alex Chebykin, Arthur Guijt, Vangelis Kostoulas
+# Main code developer: Arthur Guijt
+
 # This file contains a modified version of `merge_and_filter_fronts.py` for determining
 # the collective approximation front of an instance by combining multiple approaches and runs.
 # Providing a better approximation of the pareto front than a single solution / approach
